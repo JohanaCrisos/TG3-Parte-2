@@ -1,5 +1,5 @@
 # TG3-Parte-2
-Se realizó 5 ejercicios usando mapas de México
+Se realizó 6 ejercicios usando mapas de México
 1) Get a polygons map of the lowest administrative unit possible. Get a table of variables for those units. At least 3 numerical variables. Preprocess both tables and get them ready for merging. Do the merging, making the changes needed so that you keep the most rows.
 2) Compute the neighbors of the capital city of your country. Plot the results for each of the options.
 3) Compute the Moran's coefficient for one of your three numeric variables.Make a scatter plot for each variable.
