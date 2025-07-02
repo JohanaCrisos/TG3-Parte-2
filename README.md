@@ -6,4 +6,4 @@ Se realizó 6 ejercicios usando mapas de México
 4) Compute the Local Moran for the variables in your data that have significant spatial correlation.Create a new column for each of those variables, with a label ('0 no_sig', '1 hotSpot', '2 coldOutlier', '3 coldSpot', '4 hotOutlier').Prepare a map for each of the variables analyzed, showing the spots and outliers.
 5) Use your three variables to carry out the cluster/regional analysis.
 6) Use your three variables to carry out regression analysis (conventional and spatial).
-LINK:
+LINK:( https://maferenv.github.io/PC6/)
